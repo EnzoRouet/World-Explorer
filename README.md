@@ -69,7 +69,7 @@ Les données de l'API sont complexes et imbriquées. Le défi était de cibler p
 1. **Cloner le dépôt :**
 
 ```bash
-git clone [https://github.com/EnzoRouet/World-Explorer](https://github.com/EnzoRouet/World-Explorer)
+git clone [https://github.com/EnzoRouet/World-Explorer]
 ```
 
 2. **Lancer le projet :**
