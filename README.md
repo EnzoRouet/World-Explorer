@@ -3,7 +3,7 @@
 **Projet d'étude** focalisé sur la consommation d'API REST asynchrones et le traitement avancé de jeux de données (filtrage, tri, formatage).
 Une interface dynamique permettant d'explorer les nations du monde en temps réel via des requêtes HTTP optimisées.
 
-![Aperçu du World Explorer](./img/main.png)
+![Aperçu du World Explorer](Previous.png)
 
 ## 🎯 Contexte & Objectifs Pédagogiques
 
